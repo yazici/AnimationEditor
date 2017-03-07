@@ -1,0 +1,4 @@
+* Load animation file (json)
+* Set start frame, set end frame
+* Set repeating
+* Set Sprite sheet

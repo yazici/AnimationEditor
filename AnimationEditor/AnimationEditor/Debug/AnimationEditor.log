@@ -1,0 +1,4 @@
+﻿  PreviewWindow.cpp
+c:\users\stades1\desktop\animation editor\animationeditor\animationeditor\previewwindow.cpp(7): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  AnimationEditor.vcxproj -> C:\Users\stades1\Desktop\Animation Editor\AnimationEditor\DebugBuild\AnimationEditor.exe
+  AnimationEditor.vcxproj -> C:\Users\stades1\Desktop\Animation Editor\AnimationEditor\DebugBuild\AnimationEditor.pdb (Partial PDB)
